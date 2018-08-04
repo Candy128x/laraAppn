@@ -1,0 +1,11 @@
+
+
+GitH:
+https://github.com/Candy128x/laraAppn
+
+-> Appn Req..
+laravel ver: 5.4;
+php ver: 7.2;
+mysql ver: 5.7;
+
+
